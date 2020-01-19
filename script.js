@@ -22,3 +22,16 @@ $(document).ready(function() {
 
 
 }); 
+
+// First Challenge jQuery
+
+$(".card_image");
+var className = $(".card_image").attr("class");
+className
+$("#my_footer");
+$("#my_footer>p");
+$(":header");
+$(":first");
+$("div:last");
+$(".card_image:last");
+$("href");
